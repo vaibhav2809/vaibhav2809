@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vaibhav2809&column=8&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vaibhav2809&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 
