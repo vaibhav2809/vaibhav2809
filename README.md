@@ -17,8 +17,3 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=vaibhav2809&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2809&layout=compact" />
-</div>
